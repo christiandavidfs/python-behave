@@ -9,9 +9,12 @@ sudo pip install behave
 
 sudo pip install allure_behave
 
+sudo apt-get install allure
 
 To run the tests:
+
 behave -f allure_behave.formatter:AllureFormatter -o result
+
 
 allure serve result/
 
