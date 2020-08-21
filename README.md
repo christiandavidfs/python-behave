@@ -24,3 +24,4 @@ To Do:
 2. autoupdate from repo
 3. custom metrics (risk and pareto)
 4. standard page objects for ui
+5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
