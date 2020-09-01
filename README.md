@@ -11,6 +11,8 @@ sudo pip install allure_behave
 
 sudo apt-get install allure
 
+pip install features
+
 To run the tests:
 
 behave -f allure_behave.formatter:AllureFormatter -o result
