@@ -11,7 +11,9 @@ sudo pip install allure_behave
 
 sudo apt-get install allure
 
-pip install features
+sudo pip install features
+
+sudo pip install requests
 
 To run the tests:
 
