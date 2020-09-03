@@ -20,7 +20,8 @@ To run the tests:
 behave -f allure_behave.formatter:AllureFormatter -o result
 
 
-allure serve result/
+allure serve result/ -> add route for debian
+or validate allure route: whereis allure and use the displayed route
 
 To Do:
 
