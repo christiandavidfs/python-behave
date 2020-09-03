@@ -24,8 +24,11 @@ allure serve result/
 
 To Do:
 
+0. generate requirements.txt to install previously in venv by pip install -r requirements.txt 
 1. dockerization
 2. autoupdate from repo
 3. custom metrics (risk and pareto)
 4. standard page objects for ui
 5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
+
+Friday 4/ september roadmap next 4 weeks and requeriments to the minimal demo presentation 
