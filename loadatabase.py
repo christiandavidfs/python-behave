@@ -3,20 +3,21 @@ import json
 import codecs
 import glob
 
-result = {}
 
-files = glob.glob('./result/*.json')
 
-with codecs.open('combined_results.json', 'w', encoding='utf-8') as outfile:
-    for file in files:
-        f = open(file, 'r')
-        data = json.load(f)
-        json.dump(data, outfile, ensure_ascii=False, indent=None)
-        outfile.write("\n")
+read_files = glob.glob("result/*.json")
+output_list = []
+
+for f in read_files:
+    with open(f, "rb") as infile:
+        output_list.append(json.load(infile))
+
+with open("merged_file.json", "w") as outfile:
+    json.dump(output_list, outfile)
 
 
 # path_to_file = input('Enter path to json file:')
-with open('combined_results.json', 'r') as data_file:
+with open('merged_file.json', 'r') as data_file:
     data = json.load(data_file)
 
 collection_array = []
