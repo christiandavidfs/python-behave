@@ -27,7 +27,7 @@ for item in data:
 
 
 try:
-    conn = psycopg2.connect(database="behavee", user="postgres", password="m1jnkj03MK",host="127.0.0.1",port="5432")
+    conn = psycopg2.connect(database="behavee", user="postgres", password="password",host="127.0.0.1",port="5432")
     print ("opened  database successfully")
     cur = conn.cursor()
 
