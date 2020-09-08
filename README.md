@@ -31,7 +31,7 @@ To Do:
 3. custom metrics (risk and pareto)
 4. standard page objects for ui
 5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
-6. Integration with Browserstack (Thanks for the Sponsorship)
+6. Integration with Browserstack (Thanks for the 1 year Sponsorship)
 
 Friday 4/ september roadmap next 4 weeks and requeriments to the minimal demo presentation 
 
