@@ -26,8 +26,8 @@ or validate allure route: whereis allure and use the displayed route
 To Do:
 
 0. generate requirements.txt to install previously in venv by pip install -r requirements.txt 
-1. dockerization
-2. autoupdate from repo
+1. dockerization (working, lacking some tests)
+2. autoupdate from repo (two methods working, still deciding wich one is better)
 3. custom metrics (risk and pareto)
 4. standard page objects for ui
 5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
