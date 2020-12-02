@@ -1,7 +1,7 @@
 # BehavE2E
 
 BehavE2E is a under-development testing framework/collage with the idea of being an all rounder.
-Using python, webdriver for ui, allure for metrics, pandas for data processing and request for api testing, giving the verstility to be the starting point to any End to End testing project.
+Using python, appium for ui, allure for metrics, pandas for data processing and request for api testing, giving the verstility to be the starting point to any End to End testing project.
 
 to install behave and allure:
 
@@ -29,7 +29,7 @@ To Do:
 1. dockerization (80% finished, lacking some tests and alternatives realeted to db persistance)
 2. autoupdate from repo (two methods working, still deciding wich one is better)
 3. custom metrics (risk and pareto)
-4. standard page objects for ui
+4. standard page objects for ui 
 5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
 6. Integration with Browserstack (Thanks for the 1 year Sponsorship)
 7. Secret manager
