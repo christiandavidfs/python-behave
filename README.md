@@ -3,17 +3,13 @@
 BehavE2E is a under-development testing framework/collage with the idea of being an all rounder.
 Using python, appium for ui, allure for metrics, pandas for data processing and request for api testing, giving the verstility to be the starting point to any End to End testing project.
 
-to install behave and allure:
+to install pip:
 
-sudo pip install behave
+python get-pip.py
 
-sudo pip install allure_behave
+to install dependencies:
 
-sudo apt-get install allure
-
-sudo pip install features
-
-sudo pip install requests
+pip install -r requirements.txe
 
 To run the tests:
 
