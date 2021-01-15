@@ -9,15 +9,19 @@ python get-pip.py
 
 to install dependencies:
 
-pip install -r requirements.txe
+py -m pip install -r .\requirements.txt
 
 To run the tests:
 
 behave -f allure_behave.formatter:AllureFormatter -o result
 
-
 allure serve result/ -> add route for debian
 or validate allure route: whereis allure and use the displayed route
+
+To install the Allure framework to view the reports:
+
+in Windows: https://scoop.sh/
+then: https://docs.qameta.io/allure/
 
 To Do:
 
