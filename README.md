@@ -17,6 +17,7 @@ behave -f allure_behave.formatter:AllureFormatter -o result
 
 
 allure serve result/ -> add route for debian
+
 or validate allure route: whereis allure and use the displayed route
 
 To Do:
@@ -25,13 +26,14 @@ To Do:
 1. dockerization (80% finished, lacking some tests and alternatives realeted to db persistance)
 2. autoupdate from repo (two methods working, still deciding wich one is better)
 3. custom metrics (risk and pareto)
-4. standard page objects for ui 
-5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data)
+4. standard page objects for ui - DONE taking in account we are using BDD, but is going to be added in an external file to be easier to mantain the tests
+5. Enable the posibility of doing cross testing (example. hit API, database and ui visualization of the data) - Pretty done API and Webdriver
 6. Integration with Browserstack (Thanks for the 1 year Sponsorship)
 7. Secret manager
 8. Sikuli vs OpenCV
+9. Creation of standard functions to make connections and interactions easier.
 
-Friday 4/ september roadmap next 4 weeks and requeriments to the minimal demo presentation 
+February 1/ 7 roadmap next 4 weeks and requeriments to the minimal demo presentation 
 
 Done:
 
