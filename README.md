@@ -9,7 +9,7 @@ python get-pip.py
 
 to install dependencies:
 
-pip install -r requirements.txe
+pip install -r requirements.txt
 
 To run the tests:
 

@@ -1,0 +1,76 @@
+1623417428145	geckodriver	INFO	Listening on 127.0.0.1:48925
+1623417429142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJoWAWr"
+
+** (/usr/lib/firefox-esr/firefox-esr:5674): WARNING **: 10:17:10.495: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:5699): WARNING **: 10:17:10.673: Unable to connect to dbus: Could not connect: Permission denied
+1623417431601	Marionette	INFO	Listening on port 46495
+1623417431652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623417433439	Marionette	INFO	Stopped listening on port 46495
+1623417476103	geckodriver	INFO	Listening on 127.0.0.1:35641
+1623417476107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFAbWBP"
+
+** (/usr/lib/firefox-esr/firefox-esr:5944): WARNING **: 10:17:57.372: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:5962): WARNING **: 10:17:57.435: Unable to connect to dbus: Could not connect: Permission denied
+1623417478428	Marionette	INFO	Listening on port 33209
+1623417478517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623417480140	Marionette	INFO	Stopped listening on port 33209
+1623417555912	geckodriver	INFO	Listening on 127.0.0.1:40375
+1623417555916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileib38Ft"
+
+** (/usr/lib/firefox-esr/firefox-esr:6241): WARNING **: 10:19:17.161: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:6262): WARNING **: 10:19:17.274: Unable to connect to dbus: Could not connect: Permission denied
+1623417558342	Marionette	INFO	Listening on port 41253
+1623417558424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623417560147	Marionette	INFO	Stopped listening on port 41253
+1623418655896	geckodriver	INFO	Listening on 127.0.0.1:57795
+1623418656900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHFeT6w"
+
+** (/usr/lib/firefox-esr/firefox-esr:7339): WARNING **: 10:37:38.267: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:7357): WARNING **: 10:37:38.350: Unable to connect to dbus: Could not connect: Permission denied
+1623418659472	Marionette	INFO	Listening on port 32875
+1623418659510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623418661811	Marionette	INFO	Stopped listening on port 32875
+JavaScript error: https://duckduckgo.com/d2961.js, line 1: TypeError: f.duckbar is undefined
+1623418663334	geckodriver	INFO	Listening on 127.0.0.1:54429
+1623418663338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKVCKtq"
+
+** (/usr/lib/firefox-esr/firefox-esr:7583): WARNING **: 10:37:44.648: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:7606): WARNING **: 10:37:44.801: Unable to connect to dbus: Could not connect: Permission denied
+1623418665799	Marionette	INFO	Listening on port 33005
+1623418665858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623418667349	Marionette	INFO	Stopped listening on port 33005
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+** (/usr/lib/firefox-esr/firefox-esr:7738): WARNING **: 10:37:47.831: Unable to connect to dbus: Could not connect: Permission denied
+1623418669802	geckodriver	INFO	Listening on 127.0.0.1:52413
+1623418670806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMFeX5i"
+
+** (/usr/lib/firefox-esr/firefox-esr:7867): WARNING **: 10:37:52.131: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:7888): WARNING **: 10:37:52.270: Unable to connect to dbus: Could not connect: Permission denied
+1623418673336	Marionette	INFO	Listening on port 37205
+1623418673413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623418674827	Marionette	INFO	Stopped listening on port 37205
+1623419787583	geckodriver	INFO	Listening on 127.0.0.1:54633
+1623419787586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewyjKZl"
+
+** (/usr/lib/firefox-esr/firefox-esr:9092): WARNING **: 10:56:28.932: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:9117): WARNING **: 10:56:29.029: Unable to connect to dbus: Could not connect: Permission denied
+1623419790009	Marionette	INFO	Listening on port 41843
+1623419790094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623419791678	Marionette	INFO	Stopped listening on port 41843
+1623419795211	geckodriver	INFO	Listening on 127.0.0.1:41507
+1623419795215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKvaEwG"
+
+** (/usr/lib/firefox-esr/firefox-esr:9344): WARNING **: 10:56:36.466: Unable to connect to dbus: Could not connect: Permission denied
+
+** (/usr/lib/firefox-esr/firefox-esr:9371): WARNING **: 10:56:36.658: Unable to connect to dbus: Could not connect: Permission denied
+1623419797698	Marionette	INFO	Listening on port 35549
+1623419797724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623419799381	Marionette	INFO	Stopped listening on port 35549

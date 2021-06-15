@@ -15,3 +15,4 @@ def step_impl(context):
 @then('behave will test it for us as true!')
 def step_impl(context):
     assert context.failed is True
+
