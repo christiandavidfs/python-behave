@@ -19,3 +19,4 @@ def step_impl(context, searchresult):
   assert len(links_div.find_elements_by_xpath('//div')) > 0
   search_input = context.browser.find_element_by_name('q')
   assert search_input.get_attribute('value') == searchresult
+  
