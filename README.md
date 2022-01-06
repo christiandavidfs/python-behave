@@ -1,4 +1,5 @@
-# BehavE2E
+# BehavE2E (Deprecated)
+## Starting from scratch with pytest in place of Selenium
 
 BehavE2E is a under-development testing framework/collage with the idea of being an all rounder.
 Using python, appium for ui, allure for metrics, pandas for data processing and request for api testing, giving the verstility to be the starting point to any End to End testing project.
